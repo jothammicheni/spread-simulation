@@ -10,5 +10,5 @@ def hello_world():
 
 # This block ensures that the server only runs if the script is executed directly
 if __name__ == "__main__":
-    # Run the Flask application in debug mode on localhost port 5000
+    # Run the Flask application in debug mode on localhost port 5000 0
     app.run(debug=True)
