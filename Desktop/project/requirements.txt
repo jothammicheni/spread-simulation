@@ -1,4 +1,0 @@
-Flask==2.0.2
-requests==2.26.0
-numpy==1.22.0
-simpy==4.1.0
